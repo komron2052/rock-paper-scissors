@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿#pragma warning disable
 
 namespace Task3;
 
@@ -6,8 +6,7 @@ public class Game
 {
     public void Start(string[] args)
     {
-        Start:
-        while (true)
+    Start:
         {
             byte[] key = Hmac.GenerateRandomKey();
             var random = new Random();
@@ -49,8 +48,6 @@ public class Game
             }
             else
                 Table.MakeTable(args);
-            
         }
     }
-
 }
