@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Itransition\\Task3\\Task3Solution\\Task3\\Task3.csproj": {}
+    "D:\\itransition\\task3\\Task3Solution\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "D:\\Itransition\\Task3\\Task3Solution\\Task3\\Task3.csproj": {
+    "D:\\itransition\\task3\\Task3Solution\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Itransition\\Task3\\Task3Solution\\Task3\\Task3.csproj",
+        "projectUniqueName": "D:\\itransition\\task3\\Task3Solution\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "D:\\Itransition\\Task3\\Task3Solution\\Task3\\Task3.csproj",
+        "projectPath": "D:\\itransition\\task3\\Task3Solution\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\komro\\.nuget\\packages\\",
-        "outputPath": "D:\\Itransition\\Task3\\Task3Solution\\Task3\\obj\\",
+        "outputPath": "D:\\itransition\\task3\\Task3Solution\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\komro\\AppData\\Roaming\\NuGet\\NuGet.Config",
